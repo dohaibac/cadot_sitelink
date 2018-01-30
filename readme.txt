@@ -16,7 +16,7 @@ This Plugin help you to make referral link to other sites very easy with form an
 * Have a table all current links with action delete
 * This plugin include a Widget for display sitelink referral in sidebar.
 
-For VietNamese version (Mô tả bằng Tiếng Việt): http://www.cadot.vn/cadot-sitelink-plugin/
+Source code: https://github.com/dohaibac/cadot_sitelink
 
 == Installation ==
 This section describes how to install the plugin and get it working.
@@ -52,3 +52,6 @@ This is the first version. no upgrade
 
 = 1.1 =
 * Added target attribute, you can select target is _blank or _self for each link you add.
+
+= 1.2 =
+* Move source code to github
